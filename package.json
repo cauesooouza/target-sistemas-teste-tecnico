@@ -1,0 +1,17 @@
+{
+  "name": "targetsistemas-test-tecnico",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Teste tecnico para estagio na Target Sistemas",
+  "main": "do-while.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node start.js",
+    "test": "node --test ./tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
