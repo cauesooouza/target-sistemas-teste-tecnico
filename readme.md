@@ -85,4 +85,6 @@ Abra um terminal e execute o codigo:
 
 <code> git clone https://github.com/cauesooouza/target-sistemas-teste-tecnico.git </code>
 
-após isto você ja tera o projeto no seu computador, para testar 
+após isto você ja tera o projeto no seu computador, para testar o projeto execute:
+
+<code> npm run test </code>
