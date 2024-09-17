@@ -26,10 +26,6 @@ export const inverteOsCaracteresDeUmaPalavra = (palavra) => {
       palavraInvertida += palavraInvertidaArray[i];
     }
 
-    console.log(
-      `Palavra original: ${palavra} \napós inversão ela ficou: ${palavraInvertida}`
-    );
-
     return palavraInvertida;
   }
 };

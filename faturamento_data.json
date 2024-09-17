@@ -1,0 +1,128 @@
+{
+    "faturamento_diario_agosto": [
+        {
+            "dia": "01/08/2024",
+            "faturamento": 1500.75
+        },
+        {
+            "dia": "02/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "03/08/2024",
+            "faturamento": 850.50
+        },
+        {
+            "dia": "04/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "05/08/2024",
+            "faturamento": 1900.00
+        },
+        {
+            "dia": "06/08/2024",
+            "faturamento": 1780.20
+        },
+        {
+            "dia": "07/08/2024",
+            "faturamento": 600.00
+        },
+        {
+            "dia": "08/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "09/08/2024",
+            "faturamento": 2100.35
+        },
+        {
+            "dia": "10/08/2024",
+            "faturamento": 1345.80
+        },
+        {
+            "dia": "11/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "12/08/2024",
+            "faturamento": 1650.25
+        },
+        {
+            "dia": "13/08/2024",
+            "faturamento": 780.90
+        },
+        {
+            "dia": "14/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "15/08/2024",
+            "faturamento": 1420.50
+        },
+        {
+            "dia": "16/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "17/08/2024",
+            "faturamento": 910.75
+        },
+        {
+            "dia": "18/08/2024",
+            "faturamento": 1230.65
+        },
+        {
+            "dia": "19/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "20/08/2024",
+            "faturamento": 1750.90
+        },
+        {
+            "dia": "21/08/2024",
+            "faturamento": 1190.30
+        },
+        {
+            "dia": "22/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "23/08/2024",
+            "faturamento": 1980.60
+        },
+        {
+            "dia": "24/08/2024",
+            "faturamento": 760.45
+        },
+        {
+            "dia": "25/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "26/08/2024",
+            "faturamento": 1490.85
+        },
+        {
+            "dia": "27/08/2024",
+            "faturamento": 850.00
+        },
+        {
+            "dia": "28/08/2024",
+            "faturamento": 0
+        },
+        {
+            "dia": "29/08/2024",
+            "faturamento": 1710.40
+        },
+        {
+            "dia": "30/08/2024",
+            "faturamento": 1345.10
+        },
+        {
+            "dia": "31/08/2024",
+            "faturamento": 950.75
+        }
+    ]
+}
